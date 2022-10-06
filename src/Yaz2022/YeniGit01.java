@@ -8,9 +8,22 @@ public class YeniGit01 {
 		int b = 13;
 		System.out.println(a+b);
 		
+		System.out.println(a+b);
+		
 
 	}
-
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
