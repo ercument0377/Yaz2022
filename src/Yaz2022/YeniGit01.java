@@ -10,7 +10,7 @@ public class YeniGit01 {
 		
 		System.out.println(a+b);
 		
-
+// mesajim geldi mi
 		
 	}
 }
