@@ -14,6 +14,8 @@ public class YeniGit01 {
 		 //yeni depoya gonder
 		//saat 22.40 da gonderildi
 		
+		//deneme yayini 22.45
+		
 		
 	}
 	
