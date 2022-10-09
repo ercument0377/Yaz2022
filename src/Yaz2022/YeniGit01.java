@@ -17,6 +17,7 @@ public class YeniGit01 {
 		//deneme yayini 22.45
 		
 		// merhaba mesajim geldi mi saat 23.07
+		//bu sefer gelecek
 	}
 	
 }
