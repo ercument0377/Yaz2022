@@ -12,7 +12,7 @@ public class YeniGit01 {
 		
 // mesajim geldi mi
 		 //yeni depoya gonder
-		
+		//saat 22.40 da gonderildi
 		
 		
 	}
